@@ -27,6 +27,7 @@ body{
     width: 45px;
     display: block;
     height: 50px;
+    transition: all 1s ease;
 
     
 }
